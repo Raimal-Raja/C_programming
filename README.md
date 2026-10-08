@@ -2,9 +2,9 @@
 
 Fourteen standalone C exercises covering basic input, output, conditions, loops, and problem solving.
 
-## Repository guide
+## Setup and repository reference
 
-### Contents
+### Project structure
 
 - [Q_No_1.c](Q_No_1.c)
 - [Q_No_10.c](Q_No_10.c)
@@ -20,7 +20,6 @@ Fourteen standalone C exercises covering basic input, output, conditions, loops,
 - [Q_No_7.c](Q_No_7.c)
 - [Q_No_8.c](Q_No_8.c)
 - [Q_No_9.c](Q_No_9.c)
-- [README.md](README.md)
 
 ### Getting started
 
@@ -38,9 +37,15 @@ gcc "Q_No_11.c" -o exercise
 
 ### Configuration and limitations
 
+Compile each file separately with GCC. Each exercise has its own main function and may require interactive input.
+
 ### Validation
 
-Reviewed on 2026-10-08. Every tracked C source file passed GCC syntax checks. Interactive workflows were not exhaustively exercised.
+Audit: 2026-10-08. Repository structure, setup instructions and description were reviewed. 14 C/C++ files passed compiler syntax checks. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
+
+### Repository description
+
+The short GitHub description is provided in [REPOSITORY_DESCRIPTION.md](REPOSITORY_DESCRIPTION.md).
 
 ### Contributions
 
