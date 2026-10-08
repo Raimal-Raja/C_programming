@@ -41,11 +41,7 @@ Compile each file separately with GCC. Each exercise has its own main function a
 
 ### Validation
 
-Audit: 2026-10-08. Repository structure, setup instructions and description were reviewed. 14 C/C++ files passed compiler syntax checks. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
-
-### Repository description
-
-The short GitHub description is provided in [REPOSITORY_DESCRIPTION.md](REPOSITORY_DESCRIPTION.md).
+Recorded checks from the previous maintenance review (2026-10-08): 14 C/C++ files passed compiler syntax checks. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
 
 ### Contributions
 
